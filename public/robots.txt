@@ -1,0 +1,4 @@
+# Development placeholder. The production build regenerates this from business.siteUrl.
+User-agent: *
+Disallow: /
+Sitemap: https://SITE_URL_PLACEHOLDER.example/sitemap.xml
